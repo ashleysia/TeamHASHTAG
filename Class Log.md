@@ -2,11 +2,15 @@ November 12, 2013
 ================
 In class: 
 * We heard 3 presentations. One was a basic understanding of earthquakes. One at more regarding the ETAS model. The last was regarding suggestions of ways to approach this project per Professor Stark.
+* Reena and Tim have accomplished their goals in helping our group and will proceed to join other groups (Thanks guys! :) )
 
 Accomplishments since last class:
 * Reena and Ashley finished visualizing data over time in R.
 * Tim finished visualizing data geographicly in iPython.
 * Raymond concluded that using D3 would not be an efficient use of our time.
+
+Goals for next class:
+* Decide what new goal we will accomplish that is parallel to other vertical groups, or join new vertical groups
 
 
 November 7, 2013
