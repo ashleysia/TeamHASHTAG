@@ -1,7 +1,7 @@
 TeamHASHTAG
 ===========
 
-* Game Plan - our plans to finish the project 
+* Class Log - What happened in class, what goals we've accomplished by each date, and what we hope to accomplish in the future.
 * SMART goal - our presented goal from Nov 5, 2013
 * Resources - Other links that could be used to help us
 * Group Memberrs - the listed names of members of our group
