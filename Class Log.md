@@ -1,3 +1,19 @@
+November 12, 2013
+================
+In class: 
+* We heard 3 presentations. One was a basic understanding of earthquakes. One at more regarding the ETAS model. The last was regarding suggestions of ways to approach this project per Professor Stark.
+
+Accomplishments since last class:
+* Reena and Ashley finished visualizing data over time in R.
+* Tim finished visualizing data geographicly in iPython.
+* Raymond concluded that using D3 would not be an efficient use of our time.
+
+
+November 7, 2013
+===============
+
+The game plan going into the future: 
+
 We will be visualizing raw earthquake data over 2 different graphs- time series and geographic.
 
 The time series graph will be a line plot showing earthquake magnitude from January 1, 1993 to December 31, 2012. 
