@@ -1,6 +1,10 @@
 November 19, 2013
 ================
-The analyzers gathere in a separte room to have a conference call with Luen.
+The analyzers gather in a separate room to have a conference call with Luen.
+Raymond and Vincent are looking at various D3 visualizations and figuring out what type of interactive plot/graph/visual
+we can use for the purpose of this class. Learning coding by looking at already written out codes.
+Looking into improving the plot that Tim have accomplished and see if there's any wiggle room to expand on that.
+Yoojin will be looking into R further.
 
 November 12, 2013
 ================
