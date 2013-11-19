@@ -1,3 +1,7 @@
+November 19, 2013
+================
+The analyzers gathere in a separte room to have a conference call with Luen.
+
 November 12, 2013
 ================
 In class: 
