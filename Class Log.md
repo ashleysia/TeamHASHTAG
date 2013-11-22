@@ -1,3 +1,18 @@
+November 21, 2013
+================
+In class:
+* Kristina announced that feedback on what grade you will have in this class will be given on Tuesday
+* Raymond and Ashley talked to Aaron about what our roles should be going on into the future of this project.
+* Aaron announced that there is a possible opportunity to speak with Chancellor Dirks and the latest Berkeley Nobel Laureate at the Data Science Fair (more info TBA)
+
+Accomplishments since last class:
+* Ashley is now the operational lead to coordinate what will happen when/if we meet with Chancellor Dirks
+* Raymond is the current operational and technical lead for the D3 team
+
+Goals for next class:
+* Figure out where you belong now
+
+
 November 19, 2013
 ================
 The analyzers gather in a separate room to have a conference call with Luen.
