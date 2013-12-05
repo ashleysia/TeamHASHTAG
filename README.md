@@ -22,5 +22,5 @@ Technical Lead: David Lau  @davidopluslau
 |  | || |
 | Yoojin Jang | Presenter, Visualizer | @all4ujin| Geographic Graph (GG)|
 | Raymond Ma | Visualizer | @raymondma1 | GG |
-| Vincent Calans | Visualizer | | GG |
-| Tim Hoang | Data Curater, Visualizer | | GG
+| Vincent Calans | Visualizer | @vcanlas | GG |
+| Tim Hoang | Data Curater, Visualizer |@timothyhoang | GG
